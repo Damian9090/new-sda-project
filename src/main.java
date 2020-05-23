@@ -3,5 +3,6 @@ public class main {
         System.out.println("Wprowadzenie mastera");
         System.out.println("Pierwsza zmiana w masterze");
         System.out.println("Druga zmiana w masterze");
+        System.out.println("Końcowa wersja");
     }
 }
