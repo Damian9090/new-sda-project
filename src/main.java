@@ -4,5 +4,6 @@ public class main {
         System.out.println("Pierwsza zmiana w masterze");
         System.out.println("Druga zmiana w masterze");
         System.out.println("Nowy branch");
+        System.out.println("Pierwsza zmiana");
     }
 }
